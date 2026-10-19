@@ -87,6 +87,14 @@ export const IMAGE_MANIFEST = {
       720
     ]
   },
+  "portions": {
+    "width": 900,
+    "height": 532,
+    "widths": [
+      480,
+      900
+    ]
+  },
   "story": {
     "width": 900,
     "height": 675,
